@@ -5,7 +5,7 @@ width: 800px;
 background-color: black;
 border-radius: 25px;
 padding: 25px;
-border:5px solid #F9FF00;
+border:5px solid #ffd000;
 }
 
 div#block{
@@ -17,8 +17,21 @@ margin-left: 50px;
 padding: 25px;
 background-color: black;
 border-radius: 25px;
-border: 5px solid #F9FF00;
-color: #F9FF00;
+border: 5px solid #ffd000;
+color: #ffd000;
+}
+
+div#block2{
+font-family: Fantasy;
+width: 600px;
+margin-top:20px;
+margin-right: 50px;
+margin-left: 50px;
+padding: 25px;
+background-color: black;
+border-radius: 25px;
+border: 5px solid #ffd000;
+color: white;
 }
 
 .btn{
@@ -29,7 +42,7 @@ width: 500px;
 background-color: black;
 border-radius: 25px;
 padding: 30px;
-border:5px solid #F9FF00;
+border:5px solid #ffd000;
 color: white;
 font-size: 35px;
 transition-duration: 0.5s;
@@ -43,7 +56,7 @@ width: 500px;
 background-color: white;
 border-radius: 25px;
 padding-top: 30px;
-border:5px solid #C500FF;
+border:5px solid #aa3cff;
 color: black;
 }
 
@@ -52,3 +65,124 @@ footer{
 color: white;
 font-size: 10px;
 }
+
+
+
+
+
+.btn#bruno{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #c72717;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#bruno{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #c72717;
+color: black;
+}
+
+
+
+
+
+.btn#strawberry{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #79915f;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#strawberry{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #79915f;
+color: black;
+}
+
+
+
+
+
+.btn#emil{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #ffd000;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#emil{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #aa3cff;
+color: black;
+}
+
+
+
+
+
+.btn#fel{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #ffd000;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#fel{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #aa3cff;
+color: black;
+}
+
