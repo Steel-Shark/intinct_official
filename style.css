@@ -138,7 +138,7 @@ width: 500px;
 background-color: black;
 border-radius: 25px;
 padding: 30px;
-border:5px solid #ffd000;
+border:5px solid #fffb00;
 color: white;
 font-size: 35px;
 transition-duration: 0.5s;
@@ -152,7 +152,7 @@ width: 500px;
 background-color: white;
 border-radius: 25px;
 padding-top: 30px;
-border:5px solid #aa3cff;
+border:5px solid #fffb00;
 color: black;
 }
 
@@ -168,7 +168,7 @@ width: 500px;
 background-color: black;
 border-radius: 25px;
 padding: 30px;
-border:5px solid #ffd000;
+border:5px solid #36496a;
 color: white;
 font-size: 35px;
 transition-duration: 0.5s;
@@ -182,7 +182,336 @@ width: 500px;
 background-color: white;
 border-radius: 25px;
 padding-top: 30px;
-border:5px solid #aa3cff;
+border:5px solid #36496a;
+color: black;
+}
+
+
+
+
+
+.btn#artur{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #959595;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#artur{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #959595;
+color: black;
+}
+
+
+
+
+
+.btn#stan{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #3d7b86;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#stan{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #3d7b86;
+color: black;
+}
+
+
+
+
+
+.btn#ocean{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #ffffff;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#ocean{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #ffffff;
+color: black;
+}
+
+
+
+
+
+.btn#milo{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #97cf3a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#milo{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #97cf3a;
+color: black;
+}
+
+
+
+
+
+.btn#vincent{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #36496a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#vincent{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #36496a;
+color: black;
+}
+
+
+
+
+
+.btn#gabriel{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #36496a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#gabriel{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #36496a;
+color: black;
+}
+
+
+
+
+.btn#astrapi{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #36496a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#astrapi{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #36496a;
+color: black;
+}
+
+
+
+
+.btn#savannah{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #36496a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#savannah{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #36496a;
+color: black;
+}
+
+
+
+
+
+.btn#crystal{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #583d3b;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#crystal{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #583d3b;
+color: black;
+}
+
+
+
+
+
+.btn#xena{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #36496a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#xena{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #36496a;
+color: black;
+}
+
+
+
+
+
+
+.btn#chilli{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: black;
+border-radius: 25px;
+padding: 30px;
+border:5px solid #36496a;
+color: white;
+font-size: 35px;
+transition-duration: 0.5s;
+}
+
+.btn:hover#chilli{
+text-decoration: none;
+font-family: Fantasy;
+height: 75px;
+width: 500px;
+background-color: white;
+border-radius: 25px;
+padding-top: 30px;
+border:5px solid #36496a;
 color: black;
 }
 
